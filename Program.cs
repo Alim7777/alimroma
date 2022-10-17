@@ -10,7 +10,7 @@ namespace akim
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, Мир!");
+            Console.WriteLine("Привет, дивный Мир!");
         }
     }
 }
