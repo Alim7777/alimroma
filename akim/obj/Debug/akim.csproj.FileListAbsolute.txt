@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\akim\obj\Debug\akim.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\akim\obj\Debug\akim.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\akim\obj\Debug\akim.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\akim\bin\Debug\akim.exe.config
+C:\Users\student\Desktop\akim\bin\Debug\akim.exe
+C:\Users\student\Desktop\akim\bin\Debug\akim.pdb
+C:\Users\student\Desktop\akim\obj\Debug\akim.exe
+C:\Users\student\Desktop\akim\obj\Debug\akim.pdb
